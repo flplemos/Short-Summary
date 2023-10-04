@@ -1,2 +1,2 @@
 # short-summary
- Short summary with IA
+ Youtube Shorts summary with IA.
